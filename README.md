@@ -88,3 +88,34 @@ To pull any new changes from your parent repo simply run
 ```
 git merge upstream/master
 ```
+
+## Swags of Hacktoberfest:
+- Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull requests for 2023 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
+
+<b>
+<p><img src="https://drive.google.com/uc?export=view&id=1DWP0DCTBIgSIYDtexUYWuf0IEN3vX045" style="width: 300px; height: 350px;" alt="tshirt image"></a></p>
+<p><img src="https://drive.google.com/uc?export=view&id=10aFgU14z0V_8gWME85wJpc4GD6oeogCx" style="width: 300px; height: 350px;" alt="tshirt image"></p>
+</b>
+
+# FAQs (Frequently Asked Questions)
+
+- Who all can contribute?
+  - Anyone with a GitHub account and who is signed up for
+[hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
+- Are you getting paid for this?
+  - Sadly no. We do it for fun, education, and glory.
+- How many pull requests (PR) must be made, if I want to get an awesome t-shirt from Hacktoberfest 2022?
+  - 4
+- How do I track my progress to get an awesome shirt from Hacktoberfest 2022?
+  - [go to:](https://hacktoberfest.digitalocean.com/profile/). (Check Out Your Own Stats at Right Top)
+- What is the duration of Hacktoberfest 2023?
+  - It is from 1st october to 31st october 2023
+- What is the event for?
+  - For the open source community engagement and learn how to contribute to open source.
+
+
+
+
+###### We will do our best to merge as much as possible from everyone. However, time is limited <3
+<br>
+
