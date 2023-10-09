@@ -89,14 +89,6 @@ To pull any new changes from your parent repo simply run
 git merge upstream/master
 ```
 
-## Swags of Hacktoberfest:
-- Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull requests for 2023 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
-
-<b>
-<p><img src="https://drive.google.com/uc?export=view&id=1DWP0DCTBIgSIYDtexUYWuf0IEN3vX045" style="width: 400px; height: 255px;" alt="tshirt image"></a></p>
-<p><img src="https://drive.google.com/uc?export=view&id=10aFgU14z0V_8gWME85wJpc4GD6oeogCx" style="width: 300px; height: 350px;" alt="tshirt image"></p>
-</b>
-
 # FAQs (Frequently Asked Questions)
 
 - Who all can contribute?
