@@ -19,4 +19,9 @@ contributors = [
     fullname: "Kishan Kumar Rai",
     username: "https://github.com/kishanrajput23",
   },
+  {
+    id: 5,
+    fullname: "Pushpraj Kushwaha",
+    username: "https://github.com/Itsmrhashtag",
+  },
   ];
