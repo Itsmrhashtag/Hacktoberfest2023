@@ -27,7 +27,7 @@ P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 
 Open terminal
 ```
-git clone https://github.com/TechHack3/Hacktoberfest2023.git
+git clone https://github.com/chaitanyarai19/Hacktoberfest2023.git
 ```
 
 - Navigate to project directory.
@@ -75,7 +75,7 @@ An easy way to avoid conflicts is to add an 'upstream' for your git repo, as oth
 
 
 ```
-git remote add upstream https://github.com/TechHack3/Hacktoberfest2023
+git remote add upstream https://github.com/chaitanyarai19/Hacktoberfest2023
 ```
 
 
